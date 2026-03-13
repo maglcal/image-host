@@ -1,0 +1,13 @@
+{
+  "totalFlowers": 1,
+  "lastRecordDate": "2026-03-11",
+  "records": [
+    {
+      "date": "2026-03-11",
+      "status": "completed",
+      "flowerChange": 1,
+      "totalAfter": 1,
+      "note": "补录 - 听写完成"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mem_001",
+    "text": "用户偏好使用中文交流",
+    "category": "preference",
+    "importance": 0.9,
+    "timestamp": "2026-03-13"
+  },
+  {
+    "id": "mem_002",
+    "text": "已配置每天凌晨 2 点自动备份到飞牛 NAS",
+    "category": "configuration",
+    "importance": 0.95,
+    "timestamp": "2026-03-13"
+  },
+  {
+    "id": "mem_003",
+    "text": "已启用自动更新功能，每天凌晨 3 点检查",
+    "category": "configuration",
+    "importance": 0.95,
+    "timestamp": "2026-03-13"
+  },
+  {
+    "id": "mem_004",
+    "text": "GitHub 用户名：maglcal，仓库：image-host",
+    "category": "fact",
+    "importance": 0.85,
+    "timestamp": "2026-03-13"
+  },
+  {
+    "id": "mem_005",
+    "text": "安全评分：98/100，已完成安全加固",
+    "category": "fact",
+    "importance": 0.8,
+    "timestamp": "2026-03-13"
+  }
+]
